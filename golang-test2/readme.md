@@ -35,13 +35,6 @@ sudo apt-get install golang
 or
 [compile it yourself](https://golang.org/doc/install/source)
 
-## Settings
-1. Edit env.example file to `.env` and insert you env data: 
-
-```bash
-cp env.example .env && nano .env
-```
-
 ## Compile
 that you can start go applications via 
 ```Shell
