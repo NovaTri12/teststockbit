@@ -1,0 +1,12 @@
+2021/03/31 14:10:27 Logging to a file in Go!
+2021/03/31 14:11:06 /movieDetail
+2021/03/31 14:11:06 go to http://www.omdbapi.com/?apikey=faf7e5bb&s&i=1899
+2021/03/31 14:12:19 /movie
+2021/03/31 14:12:19 go to http://www.omdbapi.com/?apikey=faf7e5bb&s&s=Batman&page=2
+2021/03/31 14:12:35 /movieDetail
+2021/03/31 14:12:35 go to http://www.omdbapi.com/?apikey=faf7e5bb&s&i=tt4853102
+2021/03/31 14:13:46 Logging to a file in Go!
+2021/03/31 14:13:55 /detailMovie
+2021/03/31 14:13:55 go to http://www.omdbapi.com/?apikey=faf7e5bb&s&i=tt4853102
+2021/03/31 14:15:56 /movie
+2021/03/31 14:15:56 The parameter is not defined
